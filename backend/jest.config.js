@@ -1,6 +1,6 @@
-// export default {
-//   transform: {
-//     '^.+\\.jsx?$': 'babel-jest',
-//   },
-//   testEnvironment: 'node',
-// };
+export default {
+  transform: {
+    '^.+\\.jsx?$': 'babel-jest',
+  },
+  testEnvironment: 'node',
+};
